@@ -1,5 +1,5 @@
 <html>
-  <body>
+  <body style="background-color:powderblue;">
     <h1> IBM-Project-39181-1660399380 </h1>
     <h2> SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES </h2>
     <h3> DOMAIN : INTERNET OF THINGS (IOT) </h3>
