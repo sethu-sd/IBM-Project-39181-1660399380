@@ -5,6 +5,8 @@
     <h3> DOMAIN : INTERNET OF THINGS (IOT) </h3>
     <h3> BATCH NO : B7-1A3E </h3>
     <h3> TEAM ID : PNT2022TMID51935 </h3>
+    <p>
+      <a href="https://thumbs.gfycat.com/HoarseAcidicEwe-mobile.mp4"></a></p>
     <h3> TEAM MEMBERS : </h3>
         <ul>
             <li>ASHRITHA H A</li>
