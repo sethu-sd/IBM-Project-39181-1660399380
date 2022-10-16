@@ -16,8 +16,8 @@
             <li>GOHUL J P</li>
         </ul>
     </p>
-    <h3> COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY</h3>
-    <h3> TEAM MENTOR : Mrs.SASIKALA T S </h3>
-    <h3> COLLEGE SPOC : Mrs.JOTHILAKSHMI S L </h3>
+    <h4> COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY</h4>
+    <h4> TEAM MENTOR : Mrs.SASIKALA T S </h4>
+    <h4> COLLEGE SPOC : Mrs.JOTHILAKSHMI S L </h4>
   </body>
   </html>
