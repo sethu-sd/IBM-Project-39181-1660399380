@@ -8,12 +8,14 @@
     <p>
       <a href="https://thumbs.gfycat.com/HoarseAcidicEwe-mobile.mp4"></a></p>
     <h3> TEAM MEMBERS : </h3>
+    <p style="color:blue;">
         <ul>
             <li>ASHRITHA H A</li>
             <li>AKASH K B</li>
             <li>ASHIK SINHA J</li>
             <li>GOHUL J P</li>
         </ul>
+    </p>
     <h3> COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY</h3>
     <h3> TEAM MENTOR : Mrs.SASIKALA T S </h3>
     <h3> COLLEGE SPOC : Mrs.JOTHILAKSHMI S L </h3>
