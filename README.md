@@ -3,3 +3,10 @@
 ### DOMAIN : IOT
 ### BATCH NO :B7-1A3E
 
+## TEAM MEMBERS
+<ul>
+  <li>ASHRITHA H A</li>
+  <li>AKASH K B</li>
+  <li>ASHIK SINHA J</li>
+  <li>GOHUL J P</li>
+</ul>
