@@ -223,3 +223,8 @@ Serial.println("Publish FAILED");
 	delay(1000);
 	lcd.clear();
 }
+
+
+
+
+# Simulation Link : https://wokwi.com/projects/347376419979919956
