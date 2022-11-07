@@ -1,6 +1,6 @@
-# Sprint - 3
+# :star2:Sprint - 3
 
-## :Key:Preview
+## :key:Preview
 
 ## Node-RED Connection to IBM CloudantDB
 
